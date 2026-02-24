@@ -7,7 +7,7 @@ Projeto desenvolvido no Bootcamp Bradesco – GenAI & Dados
 
 ---
 
-📘 ## Introdução
+## 📘 Introdução
 
 Este projeto consiste na criação de um caderno temático no NotebookLM com foco em Introdução ao Mercado Financeiro e Produtos de Investimento, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
 
@@ -15,7 +15,7 @@ O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdut�
 
 ---
 
-📚 Fontes Utilizadas
+## 📚 Fontes Utilizadas
 
 * XP Investimentos
 * B3 – Educação Financeira
@@ -23,7 +23,7 @@ O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdut�
 
 ---
 
-🎯 Objetivos do Projeto
+## 🎯 Objetivos do Projeto
 
 * Compreender o funcionamento do mercado financeiro
 * Diferenciar renda fixa e renda variável
@@ -33,7 +33,7 @@ O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdut�
 
 ---
 
-🧠 Metodologia
+## 🧠 Metodologia
 
 1. Curadoria de 5 fontes institucionais
 2. Upload das fontes no NotebookLM
@@ -44,7 +44,7 @@ O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdut�
 
 ---
 
-🤖 Testes de Engenharia de Prompt
+## 🤖 Testes de Engenharia de Prompt
 
 Foram realizados testes variando:
 
@@ -54,14 +54,14 @@ Foram realizados testes variando:
 
 ---
 
-📌 Reflexão sobre o Uso da IA
+## 📌 Reflexão sobre o Uso da IA
 
 A IA foi utilizada como ferramenta de apoio à organização e consolidação do conhecimento.
 Foi necessária validação crítica das respostas com base nas fontes originais, evidenciando que a IA potencializa o aprendizado, mas não substitui a análise humana.
 
 ---
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 * NotebookLM
 * Engenharia de Prompts
@@ -69,7 +69,7 @@ Foi necessária validação crítica das respostas com base nas fontes originais
 
 ---
 
-📎 Finalidade
+## 📎 Finalidade
 
 Projeto desenvolvido para fins educacionais no contexto do Bootcamp Bradesco – GenAI & Dados.
 
