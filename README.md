@@ -7,7 +7,7 @@ Projeto bootcamp - Bradesco - GenAI &amp; Dados
 
 ---
 
-📌 1. Tema do Caderno
+📌 1. Tema do Caderno (Notebook LM)
 
 Introdução ao Mercado Financeiro e Produtos de Investimento
 
