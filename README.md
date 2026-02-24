@@ -53,5 +53,17 @@ Este caderno reúne fontes oficiais e educacionais para consolidar os principais
 
 ---
 
+8️⃣ Prompts Reutilizáveis
 
+“Explique [conceito financeiro] com exemplos práticos.”
+
+“Compare [produto A] e [produto B] considerando risco e liquidez.”
+
+“Crie um resumo em tópicos sobre [tema].”
+
+“Transforme esse conteúdo em mapa mental.”
+
+“Gere perguntas de revisão sobre este conteúdo.”
+
+---
 
