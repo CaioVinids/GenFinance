@@ -33,14 +33,14 @@ O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdut�
 
 ---
 
-## 🧠 Metodologia
+## 🧠 Estrutura do Caderno
 
-1. Curadoria de 5 fontes institucionais
-2. Upload das fontes no NotebookLM
-3. Geração de estrutura temática
-4. Criação de objetivos, perguntas estratégicas e glossário
-5. Testes de variações de prompts (técnico, didático e estruturado)
-6. Análise crítica das respostas geradas
+* Estrutura Base do Conteúdo
+* Objetivos de Estudo
+* Perguntas Estratégicas
+* Glossário
+* Guia de Estudo
+* Testes de Prompts e Análise Crítica
 
 ---
 
