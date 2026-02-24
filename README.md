@@ -73,3 +73,9 @@ Foi necessária validação crítica das respostas com base nas fontes originais
 Projeto desenvolvido para fins educacionais no contexto do Bootcamp Bradesco – GenAI & Dados.
 
 ---
+
+## Ambiente Utilizado
+
+![NotebookLM](imagens/print-notebooklm.png)
+
+---
