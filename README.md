@@ -52,6 +52,8 @@ Foram realizados testes variando:
 - Abordagem didática
 - Estrutura em tabela
 
+Os resultados demonstraram que a qualidade da resposta está diretamente relacionada à clareza e especificação do prompt.
+
 ---
 
 ## 📌 Reflexão sobre o Uso da IA
