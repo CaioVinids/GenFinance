@@ -7,19 +7,22 @@ Projeto bootcamp - Bradesco - GenAI &amp; Dados
 
 ---
 
-📌 1. Tema do Caderno (Notebook LM)
+1️⃣ Descrição do Tema
 
-Introdução ao Mercado Financeiro e Produtos de Investimento
+O mercado financeiro é o ambiente onde ocorre a intermediação de recursos entre agentes superavitários (quem tem dinheiro para investir) e agentes deficitários (quem precisa de recursos). Compreender seu funcionamento é essencial para decisões conscientes de investimento, gestão de riscos e planejamento financeiro.
 
-* renda fixa vs renda variável
-* risco, retorno e liquidez
-* principais produtos (CDB, Tesouro, ações, fundos)
+Este caderno reúne fontes oficiais e educacionais para consolidar os principais conceitos introdutórios sobre:
+* Estrutura do mercado financeiro
+* Renda fixa e renda variável
+* Relação entre risco, retorno e liquidez
+* Principais produtos de investimento no Brasil
 
 ---
 
-📌 2. Fontes utilizadas
+2️⃣ Fontes Utilizadas
 
-* Material da XP investimentos
-* Conteúdo sobre educação financeira da B3 e ANBIMA
+* XP Investimentos
+* B3 – Educação Financeira
+* ANBIMA – Educação para investidores
 
 ---
