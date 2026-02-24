@@ -26,3 +26,32 @@ Este caderno reúne fontes oficiais e educacionais para consolidar os principais
 * ANBIMA – Educação para investidores
 
 ---
+
+3️⃣ Objetivos de Estudo
+
+* Compreender o papel do mercado financeiro na economia.
+* Diferenciar produtos de renda fixa e renda variável.
+* Entender os conceitos de risco, retorno e liquidez.
+* Identificar os principais produtos de investimento disponíveis no Brasil.
+* Utilizar IA como ferramenta de aprendizagem estruturada.
+
+---
+
+4️⃣ Perguntas Estratégicas
+
+1. O que é o mercado financeiro e qual sua função na economia?
+
+2. Como funciona a intermediação financeira?
+
+3. Qual a diferença entre renda fixa e renda variável?
+
+4. Como risco, retorno e liquidez se relacionam?
+
+5. Quais são os principais produtos de investimento no Brasil?
+
+6. Como um investidor iniciante pode escolher um investimento adequado?
+
+---
+
+
+
