@@ -53,7 +53,7 @@ Este caderno reúne fontes oficiais e educacionais para consolidar os principais
 
 ---
 
-8️⃣ Prompts Reutilizáveis
+5️⃣ Prompts Reutilizáveis
 
 “Explique [conceito financeiro] com exemplos práticos.”
 
