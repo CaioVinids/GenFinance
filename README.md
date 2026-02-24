@@ -76,6 +76,6 @@ Projeto desenvolvido para fins educacionais no contexto do Bootcamp Bradesco –
 
 ## Ambiente Utilizado
 
-![NotebookLM](imagens/print-notebooklm.png)
+![NotebookLM](imagens/print_notebook_lm.png)
 
 ---
