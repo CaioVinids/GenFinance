@@ -47,9 +47,9 @@ O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdut�
 ## 🤖 Testes de Engenharia de Prompt
 
 Foram realizados testes variando:
-  - Abordagem técnica
-  - Abordagem didática
-  - Estrutura em tabela
+    - Abordagem técnica
+    - Abordagem didática
+    - Estrutura em tabela
 
 Os resultados demonstraram que a qualidade da resposta está diretamente relacionada à clareza e especificação do prompt.
 
