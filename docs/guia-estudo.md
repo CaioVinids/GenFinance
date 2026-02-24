@@ -76,3 +76,15 @@ Risco, retorno e liquidez são variáveis interdependentes. Em geral, quanto mai
 
 O estudo permitiu compreender a estrutura do mercado financeiro e sua importância para a economia. A utilização de IA como ferramenta de apoio auxiliou na organização do conteúdo, mantendo-se sempre a validação crítica das informações.
 
+## 9. Prompts Reutilizáveis
+
+* “Explique [conceito financeiro] com exemplos práticos.”
+
+* “Compare [produto A] e [produto B] considerando risco e liquidez.”
+
+* “Crie um resumo em tópicos sobre [tema].”
+
+* “Transforme esse conteúdo em mapa mental.”
+
+* “Gere perguntas de revisão sobre este conteúdo.”
+
