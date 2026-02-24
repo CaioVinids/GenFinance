@@ -1,5 +1,4 @@
 # GenFinance-Analytics
 Projeto bootcamp - Bradesco - GenAI &amp; Dados
 
-![Bradesco](https://img.shields.io/badge/-ff0038?style=for-the-badge&logo=bradesco&logoColor=white)
-
+<img src="https://simpleicons.org/icons/bradesco.svg" alt="Bradesco Logo" width="40" height="40">
