@@ -1,5 +1,5 @@
-# GenFinance-Analytics
-Projeto bootcamp - Bradesco - GenAI &amp; Dados
+# GenFinance
+Projeto desenvolvido no Bootcamp Bradesco – GenAI & Dados
 
 <a href="https://web.dio.me/track/bradesco-genai-dados" target="_blank">
   <img src="https://github.com/user-attachments/assets/b2f178bf-00d5-4020-9f35-743331f28bbd" width="120" alt="Logo Bradesco GenAI">
@@ -7,63 +7,70 @@ Projeto bootcamp - Bradesco - GenAI &amp; Dados
 
 ---
 
-1️⃣ Descrição do Tema
+📘 Introdução
 
-O mercado financeiro é o ambiente onde ocorre a intermediação de recursos entre agentes superavitários (quem tem dinheiro para investir) e agentes deficitários (quem precisa de recursos). Compreender seu funcionamento é essencial para decisões conscientes de investimento, gestão de riscos e planejamento financeiro.
+Este projeto consiste na criação de um caderno temático no NotebookLM com foco em Introdução ao Mercado Financeiro e Produtos de Investimento, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
 
-Este caderno reúne fontes oficiais e educacionais para consolidar os principais conceitos introdutórios sobre:
-* Estrutura do mercado financeiro
-* Renda fixa e renda variável
-* Relação entre risco, retorno e liquidez
-* Principais produtos de investimento no Brasil
+O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdutórios por meio de curadoria de fontes oficiais e testes estruturados de engenharia de prompts.
 
 ---
 
-2️⃣ Fontes Utilizadas
+📚 Fontes Utilizadas
 
 * XP Investimentos
 * B3 – Educação Financeira
-* ANBIMA – Educação para investidores
+* ANBIMA – Educação do Investidor
 
 ---
 
-3️⃣ Objetivos de Estudo
+🎯 Objetivos do Projeto
 
-* Compreender o papel do mercado financeiro na economia.
-* Diferenciar produtos de renda fixa e renda variável.
-* Entender os conceitos de risco, retorno e liquidez.
-* Identificar os principais produtos de investimento disponíveis no Brasil.
-* Utilizar IA como ferramenta de aprendizagem estruturada.
-
----
-
-4️⃣ Perguntas Estratégicas
-
-1. O que é o mercado financeiro e qual sua função na economia?
-
-2. Como funciona a intermediação financeira?
-
-3. Qual a diferença entre renda fixa e renda variável?
-
-4. Como risco, retorno e liquidez se relacionam?
-
-5. Quais são os principais produtos de investimento no Brasil?
-
-6. Como um investidor iniciante pode escolher um investimento adequado?
+* Compreender o funcionamento do mercado financeiro
+* Diferenciar renda fixa e renda variável
+* Analisar a relação entre risco, retorno e liquidez
+* Organizar conhecimento financeiro de forma estruturada
+* Aplicar engenharia de prompts para aprendizagem ativa
 
 ---
 
-5️⃣ Prompts Reutilizáveis
+🧠 Metodologia
 
-“Explique [conceito financeiro] com exemplos práticos.”
-
-“Compare [produto A] e [produto B] considerando risco e liquidez.”
-
-“Crie um resumo em tópicos sobre [tema].”
-
-“Transforme esse conteúdo em mapa mental.”
-
-“Gere perguntas de revisão sobre este conteúdo.”
+1. Curadoria de 5 fontes institucionais
+2. Upload das fontes no NotebookLM
+3. Geração de estrutura temática
+4. Criação de objetivos, perguntas estratégicas e glossário
+5. Testes de variações de prompts (técnico, didático e estruturado)
+6. Análise crítica das respostas geradas
 
 ---
 
+🤖 Testes de Engenharia de Prompt
+
+Foram realizados testes variando:
+
+- Abordagem técnica
+- Abordagem didática
+- Estrutura em tabela
+
+---
+
+📌 Reflexão sobre o Uso da IA
+
+A IA foi utilizada como ferramenta de apoio à organização e consolidação do conhecimento.
+Foi necessária validação crítica das respostas com base nas fontes originais, evidenciando que a IA potencializa o aprendizado, mas não substitui a análise humana.
+
+---
+
+🚀 Tecnologias Utilizadas
+
+* NotebookLM
+* Engenharia de Prompts
+* Curadoria de Fontes Institucionais
+
+---
+
+📎 Finalidade
+
+Projeto desenvolvido para fins educacionais no contexto do Bootcamp Bradesco – GenAI & Dados.
+
+---
