@@ -64,10 +64,10 @@ Essas instituições conectam investidores e empresas/governo que necessitam de 
 
 ## 7. Perguntas Estratégicas Respondidas
 
-### 1. O que é o mercado financeiro?
+### O que é o mercado financeiro?
 O mercado financeiro é o sistema que conecta poupadores e tomadores de recursos. Sua principal função é permitir a alocação eficiente de capital, promovendo crescimento econômico, financiamento de empresas e estabilidade do sistema financeiro. Ele viabiliza investimentos produtivos e facilita a gestão de riscos.
 
-### 2. Como risco, retorno e liquidez se relacionam?
+### Como risco, retorno e liquidez se relacionam?
 Risco, retorno e liquidez são variáveis interdependentes. Em geral, quanto maior o risco assumido, maior o potencial de retorno esperado. Ativos com alta liquidez tendem a oferecer menor rentabilidade, pois oferecem maior segurança ao investidor.
 
 ---
