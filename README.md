@@ -15,3 +15,7 @@ Projeto bootcamp - Bradesco - GenAI &amp; Dados
 📌 1. Tema do Caderno
 
 Introdução ao Mercado Financeiro e Produtos de Investimento
+
+* renda fixa vs renda variável
+* risco, retorno e liquidez
+* principais produtos (CDB, Tesouro, ações, fundos)
