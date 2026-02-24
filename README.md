@@ -52,7 +52,11 @@ Foram realizados testes variando:
   - Estrutura em tabela
 
 Os resultados demonstraram que a qualidade da resposta está diretamente relacionada à clareza e especificação do prompt.
-
+- Transformar dados brutos do setor aéreo em informações estratégicas, permitindo:
+  - Avaliar o desempenho das companhias aéreas
+  - Comparar demanda versus oferta ao longo do tempo
+  - Identificar aeroportos e empresas com maior potencial de receita
+  - Analisar impactos operacionais, como atrasos nos voos
 ---
 
 ## 📌 Reflexão sobre o Uso da IA
