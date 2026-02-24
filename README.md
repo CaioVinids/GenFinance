@@ -1,6 +1,4 @@
 # GenFinance-Analytics
 Projeto bootcamp - Bradesco - GenAI &amp; Dados
 
-<a href="SEU_LINK_AQUI">
-  <img src="https://cdn.simpleicons.org/bradesco/ff0038" alt="Bradesco" width="50" height="50">
-</a>
+![bradesco](https://github.com/user-attachments/assets/b2f178bf-00d5-4020-9f35-743331f28bbd)
