@@ -74,8 +74,9 @@ Projeto desenvolvido para fins educacionais no contexto do Bootcamp Bradesco –
 
 ---
 
-## Ambiente Utilizado
+## Estrutura do Projeto
 
-![NotebookLM](imagens/print_notebook_lm.png)
+- 📘 Guia de Estudo: `docs/guia_estudo.md`
+- 🖼️ Ambiente utilizado: ![NotebookLM](imagens/print_notebook_lm.png)
 
 ---
