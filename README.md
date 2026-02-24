@@ -7,7 +7,7 @@ Projeto desenvolvido no Bootcamp Bradesco – GenAI & Dados
 
 ---
 
-📘 Introdução
+📘 ## Introdução
 
 Este projeto consiste na criação de um caderno temático no NotebookLM com foco em Introdução ao Mercado Financeiro e Produtos de Investimento, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
 
