@@ -46,10 +46,10 @@ O objetivo foi organizar, sintetizar e analisar conteúdos financeiros introdut�
 
 ## 🤖 Testes de Engenharia de Prompt
 
-- Foram realizados testes variando:
-  - AAbordagem técnica
-  - CAbordagem didática
-  - IEstrutura em tabela
+ Foram realizados testes variando:
+  - Abordagem técnica
+  - Abordagem didática
+  - Estrutura em tabela
 
 ---
 
