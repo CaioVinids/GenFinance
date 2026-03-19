@@ -1,4 +1,4 @@
-# GenFinance
+# LmFinance
 Projeto desenvolvido no Bootcamp Bradesco – GenAI & Dados
 
 <a href="https://web.dio.me/track/bradesco-genai-dados" target="_blank">
